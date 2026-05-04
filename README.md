@@ -47,7 +47,7 @@ A survey of 120 projects across four eras of open source:
 | **New & Emerging** | 20 | High-velocity projects gaining real adoption in 2024-2026. |
 | **Fragmented & Sophisticated** | 55 | Niche, complex tools for specific domains. Steep learning curves. High power. |
 
-**[Download](reports/opensource-projects-2026.md)** | **[View Raw](https://github.com/foss-heaven/foss-heaven/blob/main/reports/opensource-projects-2026.md)**
+**[Download](reports/foss-heaven-report-2026.md)** | **[View Raw](https://github.com/foss-heaven/foss-heaven/blob/main/reports/foss-heaven-report-2026.md)**
 
 ### Report 2: FOSS HEAVEN
 200+ verified deployable tools across 10 categories. Each entry checked for:
@@ -60,7 +60,7 @@ A survey of 120 projects across four eras of open source:
 
 Includes Docker Compose templates, deployment notes, and honest failure reports.
 
-**[Download](reports/foss-heaven-2026.md)** | **[View Raw](https://github.com/foss-heaven/foss-heaven/blob/main/reports/foss-heaven-2026.md)**
+**[Download](reports/foss-heaven-report-pro.md)** | **[View Raw](https://github.com/foss-heaven/foss-heaven/blob/main/reports/foss-heaven-report-pro.md)**
 
 ---
 
